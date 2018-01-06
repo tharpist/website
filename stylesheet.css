@@ -1,0 +1,152 @@
+body{
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;  
+}
+page1footer{
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+
+#page1 {
+	height:auto;
+    width:auto;
+    background: linear-gradient(black 75%, #777cdc );
+	padding-top:10%;
+    padding-bottom: 300px;
+    width: 100%;
+    overflow:auto;
+	}
+
+
+#header{
+    align-content: center;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3vw;
+    position: relative;
+}
+
+
+#footer1{
+    font-size: 2vw;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+}
+
+
+img{
+    width: 30%;
+    height: auto;
+    margin-right: 65%;
+    margin-bottom: -25%;
+    position: relative;
+}
+ 
+
+
+.subtitles{
+    position: relative;
+    display:none;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    color:aliceblue;
+    margin-left: 25%;
+    margin-bottom: 11vw;
+    margin-top: -3vw;
+    font-size: 2vw;
+}
+
+
+#page2 {
+	height:auto;
+    width: auto;
+    background: linear-gradient(#777cdc, white 100% );
+	padding-top:10%;
+    text-align: center;
+	}
+
+#title{
+    text-align: center;
+    color: white;
+     font-family: 'Open Sans', sans-serif;
+    font-size: 4vw;
+
+}
+
+
+#page3 {
+	height:auto;
+    width: auto;
+	 background-color: white;
+	padding-top:10%;
+    overflow:auto;
+    text-align: center;
+	}
+
+
+
+
+.skills{
+    display: inline-block;
+    height:200px;
+    width:200px;
+    border: dotted 8px;
+    border-radius: 100%;
+    background-color:white;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 24px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    }
+
+.skill_name{
+    margin-top: 40%;
+}
+
+.skills:hover{
+      color: green;
+    transform:scale(1.5);
+}
+
+    
+.button{
+    font-size: 5vw;
+    border: none;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+    cursor: pointer; 
+}        
+    
+
+#page3 {
+	height:auto;
+    width: auto;
+	 background-color: white;
+	padding-top:10%;
+    overflow:auto;
+    text-align: center;
+	}
+
+
+
+
+
+    
+#footer3{
+    font-size: 2vw;
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: monospace;
+}
